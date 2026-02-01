@@ -1,6 +1,6 @@
 # VGA on 8-bit XMEGA
 
-Bit-banged VGA output on an overclocked 8-bit XMEGA microcontroller using pure C. 6-bit RGB colors with GPIO H/V sync.
+Bit-banged VGA output on an overclocked 8-bit XMEGA microcontroller using pure C.
 
 ## Demo
 <video src="https://github.com/user-attachments/assets/378860cd-6f51-48d7-b18b-5c9fdce3b1e1" width="960" height="540"></video>
