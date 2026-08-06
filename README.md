@@ -6,7 +6,7 @@ Bit-banged VGA output on an overclocked 8-bit XMEGA microcontroller using pure C
 <video src="https://github.com/user-attachments/assets/378860cd-6f51-48d7-b18b-5c9fdce3b1e1" width="960" height="540"></video>
 
 ## Microcontroller
-- Atmel XMEGA 128A4U @ 64 MHz (overclocked from 16 MHz)
+- Atmel XMEGA 32A4U @ 64 MHz (overclocked from 16 MHz)
 
 ## Features
 - VGA engine (360×480 pixels) using a 60×60 color tile map  
